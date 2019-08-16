@@ -2,6 +2,7 @@ body {
     width: 100%;
     margin: 0 auto;
     font-family: 'open sans' sans-serif;
+    background-color: #663300;
 }
 
 .img {
@@ -12,6 +13,7 @@ body {
 
 .col-md-9{
    margin-left:33%;
+   color: white;
 }
 
 
